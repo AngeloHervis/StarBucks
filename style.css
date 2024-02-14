@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Poppins", sans-serif;
 }
 
 body {
@@ -41,6 +41,7 @@ button {
     border: none;
     padding: 10px;
     border-radius: 20px;
+    transition: 0.3s;
 }
 
 h2 {
@@ -52,7 +53,7 @@ p {
     font-size: 16px;
     margin-top: 20px;
     margin-bottom: 30px;
-    
+
 }
 
 span {
@@ -63,7 +64,7 @@ span {
     width: 80px;
 }
 
-.copoGrande1{
+.copoGrande1 {
     width: 340px;
     z-index: 2;
 }
