@@ -32,7 +32,7 @@ Para executar o StarBucks localmente em sua máquina, siga estas etapas:
 ## Autor
 Angelo Hervis
 - GitHub: [AngeloHervis](https://github.com/AngeloHervis)
-- LinkedIn: [Angelo Hervis](https://www.linkedin.com/in/angelohervis/)
+- LinkedIn: [Angelo Hervis](https://www.linkedin.com/in/angelo-hervis/)
 
 ## Licença
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
