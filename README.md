@@ -1,9 +1,9 @@
 # StarBucks
 
-![StarBucks Logo](img/logo.png)
+![StarBucks Logo](img/projeto.png)
 
 ## Descrição
-O StarBucks é um projeto web desenvolvido com o objetivo de recriar a interface e funcionalidades do site da Starbucks, oferecendo uma experiência semelhante para os usuários. Este projeto foi desenvolvido como parte do meu aprendizado em desenvolvimento web.
+O StarBucks é um projeto web desenvolvido com o objetivo de reproduzir uma Landing Page divulgando os produtos da marca Starbucks, oferecendo uma experiência satisfatória para os usuários. Este projeto foi desenvolvido como parte do meu aprendizado em desenvolvimento web.
 
 ## Funcionalidades Principais
 - Página inicial com destaque para produtos e promoções.
