@@ -17,7 +17,6 @@ O StarBucks é um projeto web desenvolvido com o objetivo de reproduzir uma Land
 - HTML5
 - CSS3 (com pré-processador SASS/SCSS)
 - JavaScript (possivelmente utilizando frameworks como React, Vue.js, ou Angular)
-- Bootstrap (opcional, dependendo da preferência e necessidade de um framework CSS)
 - Git (para controle de versão)
 
 ## Pré-requisitos
@@ -33,7 +32,3 @@ Para executar o StarBucks localmente em sua máquina, siga estas etapas:
 Angelo Hervis
 - GitHub: [AngeloHervis](https://github.com/AngeloHervis)
 - LinkedIn: [Angelo Hervis](https://www.linkedin.com/in/angelo-hervis/)
-
-## Licença
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
