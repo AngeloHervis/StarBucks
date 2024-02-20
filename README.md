@@ -1,6 +1,8 @@
 # StarBucks
 
-![StarBucks Logo](img/projeto.png)
+<div style="display:flex; align-items:center; justify-content:center; margin-bottom:20px">
+<img src="img/projeto.png" >
+</div>
 
 ## Descrição
 O StarBucks é um projeto web desenvolvido com o objetivo de reproduzir uma Landing Page divulgando os produtos da marca Starbucks, oferecendo uma experiência satisfatória para os usuários. Este projeto foi desenvolvido como parte do meu aprendizado em desenvolvimento web.
